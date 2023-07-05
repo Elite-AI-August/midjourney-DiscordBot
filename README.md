@@ -1,7 +1,7 @@
 # midjourney-api
 
 Node.js client for the unofficial MidJourney api.  
-Major update New [niji bot](https://github.com/erictik/midjourney-api/blob/main/example/imagine-niji.ts) & [custom zoom](https://github.com/erictik/midjourney-api/blob/main/example/customzoom.ts) & [remix mode](https://github.com/erictik/midjourney-api/blob/main/example/variation-ws.ts)
+Major update New [niji bot](https://github.com/AI-General/integrate-midjourneyAPI/blob/main/example/imagine-niji.ts) & [custom zoom](https://github.com/erictik/midjourney-api/blob/main/example/customzoom.ts) & [remix mode](https://github.com/AI-General/integrate-midjourneyAPI/blob/main/example/variation-ws.ts)
 <div align="center">
 	<p>
 		<a href="https://discord.gg/GavuGHQbV4"><img src="https://img.shields.io/discord/1082500871478329374?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
