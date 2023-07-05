@@ -102,23 +102,23 @@ npx tsx example/imagine-ws.ts
 - [x] `/imagine` `variation` `upscale` `reroll` `blend` `zoomout` `vary`
 - [x] `/info`
 - [x] `/fast ` and `/relax `
-- [x] [`/prefer remix`](https://github.com/erictik/midjourney-api/blob/main/example/prefer-remix.ts) 
-- [x] [`variation (remix mode)`](https://github.com/erictik/midjourney-api/blob/main/example/variation-ws.ts)
+- [x] [`/prefer remix`](https://github.com/AI-General/integrate-midjourneyAPI/blob/main/example/prefer-remix.ts) 
+- [x] [`variation (remix mode)`](https://github.comAI-General/integrate-midjourneyAPI/blob/main/example/variation-ws.ts)
 - [x] `/describe` 
-- [x] [`/shorten`](https://github.com/erictik/midjourney-api/blob/main/example/shorten.ts)
+- [x] [`/shorten`](https://github.com/AI-General/integrate-midjourneyAPI/blob/main/example/shorten.ts)
 - [x] `/settings` `reset`
 - [x] verify human
-- [x] [proxy](https://github.com/erictik/midjourney-discord/blob/main/examples/proxy.ts)
-- [x] [niji bot](https://github.com/erictik/midjourney-api/blob/main/example/imagine-niji.ts)
-- [x] [custom zoom](https://github.com/erictik/midjourney-api/blob/main/example/customzoom.ts)
+- [x] [proxy](https://github.com/AI-General/midjourney-discord/blob/main/examples/proxy.ts)
+- [x] [niji bot](https://github.comAI-General/midjourney-api/blob/main/example/imagine-niji.ts)
+- [x] [custom zoom](https://github.com/AI-General/AI-General/blob/main/example/customzoom.ts)
 - [x] autoload command payload
 ---
 ## Projects
-- [midjourney-ui](https://github.com/erictik/midjourney-ui/)
-- [midjourney-discord](https://github.com/erictik/midjourney-discord)-bot
+- [midjourney-ui](https://github.com/AI-General/midjourney-ui/)
+- [midjourney-discord](https://github.com/AI-General/midjourney-discord)-bot
 - [phrame](https://github.com/jakowenko/phrame)
 - [guapitu](https://www.guapitu.com/zh/draw?code=RRXQNF)
 ---
-<a href='https://ko-fi.com/erictik' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+<a href='https://ko-fi.com/AI-General' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=erictik/midjourney-api&type=Date)](https://star-history.com/#erictik/midjourney-api&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=erictik/midjourney-api&type=Date)](https://star-history.com/#AI-General/integrate-midjourneyAPI&Date)
